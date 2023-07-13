@@ -34,10 +34,10 @@
     "server",
   ],
   "exclude": [
-    "__tests__/**.js",
-    "typings/browser.d.ts",
-    "typings/browser",
-    "node_modules"
+    // "__tests__/**.js",
+    // "typings/browser.d.ts",
+    // "typings/browser",
+    // "node_modules"
   
   ],
 
